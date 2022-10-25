@@ -1,4 +1,4 @@
 # Tableau-Project
 
 Please see the link for my tableau project:
-https://public.tableau.com/app/profile/elizulkatri/viz/Project2_16420813774320/Dashboard1
+https://public.tableau.com/app/profile/eli.zulkatri6988/viz/Project1_16666984117960/Dashboard1?publish=yes
