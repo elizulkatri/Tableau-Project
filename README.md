@@ -1,4 +1,4 @@
-Please see the link for my tableau project!
+Please click & see for my tableau project here!
 
 1. Project 1:This is customer analysis practice to see the revenue several category.
 Please click this link to see my dashboard project 1:
