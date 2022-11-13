@@ -13,4 +13,6 @@ https://public.tableau.com/app/profile/elizulkatri12/viz/Project2_16682633691890
 
 3. Project 3: We wold like to explore the dataset from covid 19 and graph it into dashboard.
 Find the dataset on the file or can go to this link: https://www.kaggle.com/datasets/imdevskp/corona-virus-report
+To see the dashboard, click here:
+https://public.tableau.com/app/profile/elizulkatri12/viz/Project3_16683062140160/Dashboard1?publish=yes
 
